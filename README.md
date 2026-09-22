@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Run SFD on NVDLA ###
 
 ```
-cd nvdla_cnn
+cd src/nvdla_cnn
 sh ./run.sh
 ```
 
